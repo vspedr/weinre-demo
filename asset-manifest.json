@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weinre-demo/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/weinre-demo/static/js/main.7d4ff705.chunk.js",
+    "main.js.map": "/weinre-demo/static/js/main.7d4ff705.chunk.js.map",
+    "runtime-main.js": "/weinre-demo/static/js/runtime-main.2510edb3.js",
+    "runtime-main.js.map": "/weinre-demo/static/js/runtime-main.2510edb3.js.map",
+    "static/js/2.ac01c951.chunk.js": "/weinre-demo/static/js/2.ac01c951.chunk.js",
+    "static/js/2.ac01c951.chunk.js.map": "/weinre-demo/static/js/2.ac01c951.chunk.js.map",
+    "static/js/3.d0e35062.chunk.js": "/weinre-demo/static/js/3.d0e35062.chunk.js",
+    "static/js/3.d0e35062.chunk.js.map": "/weinre-demo/static/js/3.d0e35062.chunk.js.map",
+    "index.html": "/weinre-demo/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/weinre-demo/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ac01c951.chunk.js.LICENSE.txt": "/weinre-demo/static/js/2.ac01c951.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/weinre-demo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2510edb3.js",
+    "static/js/2.ac01c951.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.7d4ff705.chunk.js"
+  ]
+}
